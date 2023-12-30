@@ -16,8 +16,8 @@ BuildRequires:	Qt5Gui-devel >= 5.11.1
 BuildRequires:	Qt5Test-devel
 BuildRequires:	cmake >= 2.8.12
 BuildRequires:	gettext-devel
-BuildRequires:	ka5-kcalcore-devel >= %{kdeappsver}
 BuildRequires:	kf5-extra-cmake-modules >= %{kframever}
+BuildRequires:	kf5-kcalendarcore-devel >= %{kframever}
 BuildRequires:	kf5-kcoreaddons-devel >= %{kframever}
 BuildRequires:	kf5-ki18n-devel >= %{kframever}
 BuildRequires:	kf5-kio-devel >= %{kframever}
